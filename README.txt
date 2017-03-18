@@ -19,5 +19,5 @@ Dependencies:
 	-> numpy v1.12.0	# Used for simple matrix operations
 ----------------------------------------------------------------------------------
 Notes:
--> This tutorial has been tested for macOS Sierra.
+-> This tutorial has been tested on macOS Sierra.
 
